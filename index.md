@@ -7,7 +7,6 @@ Kerala-IoT-Challenge
 
 ](/Kerala-IoT-Challenge/)
 
-[View on GitHub](https://github.com/Mishal4776/Kerela-IOT-Challenge.git)
 
 Kerala-IoT-Challenge
 ====================
