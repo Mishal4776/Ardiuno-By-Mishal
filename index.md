@@ -18,24 +18,24 @@ Table of Contents
 1.  [Level 1](#level1)
     
     In this Section I am going to show you my works I have done for the IOT challenge which includes 12 experiments.I am using Arduino whic is an Open-source electronic prototyping platform enabling users to create interactive electronic objects.You can visit the Arduino website throuh [**Here**](https://www.arduino.cc/) , Where you can see a hundreds of works and documentations and even you can do it using their tutorials .The 12 experiments that I have done are as follows;
-    
-    2.  [Hello World LED Blinking](#exp1)
-    3.  [Traffic Light](#exp2)
-    4.  [LED Chasing Effect](#exp3)
-    5.  [Button Controlled LED](#exp4)
-    6.  [Buzzer](#exp5)
-    7.  [RGB LED](#exp6)
-    8.  [LDR Light Sensor](#exp7)
-    9.  [Flame Sensor](#exp8)
-    10.  [LM35 Temperature Sensor](#exp9)
-    11.  [IR Remote Control Using TSOP](#exp10)
-    12.  [Potentiometer analog Value Reading](#exp11)
-    13.  [7 Segment Display](#exp12)
+   
+    1.  [Hello World LED Blinking](#exp1)
+    2.  [Traffic Light](#exp2)
+    3.  [LED Chasing Effect](#exp3)
+    4.  [Button Controlled LED](#exp4)
+    5.  [Buzzer](#exp5)
+    6.  [RGB LED](#exp6)
+    7.  [LDR Light Sensor](#exp7)
+    8.  [Flame Sensor](#exp8)
+    9.  [LM35 Temperature Sensor](#exp9)
+    10.  [IR Remote Control Using TSOP](#exp10)
+    11.  [Potentiometer analog Value Reading](#exp11)
+    12.  [7 Segment Display](#exp12)
     
     ASSIGNMENTS
     ===========
     
-    15.  [Automatic Night Lighting System](#assign1)
+    1.  [Automatic Night Lighting System](#assign1)
 
   
 
@@ -74,7 +74,7 @@ Code
 ----
 
     
-    int ledPin = 10; // define digital pin 10.
+    int ledPin = 2; // define digital pin 10.
     void setup()
     {
     pinMode(ledPin, OUTPUT);// define pin with LED connected as output.
