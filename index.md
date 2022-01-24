@@ -82,9 +82,9 @@ Code
     void loop()
     {
     digitalWrite(ledPin, HIGH); // set the LED on.
-    delay(1000); // wait for a second.
+    delay(500); // wait for a second.
     digitalWrite(ledPin, LOW); // set the LED off.
-    delay(1000); // wait for a second
+    delay(500); // wait for a second
     }
     
     
@@ -92,7 +92,7 @@ Code
 Output
 ------
 
-> The LED blinked with a time interval of 1 second
+> The LED blinked with a time interval of 0.5 second
 
   
 
