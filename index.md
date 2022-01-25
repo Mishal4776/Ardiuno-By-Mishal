@@ -118,9 +118,10 @@ Code
 ----
 
     
-    int redled =10; // initialize digital pin 8.
-    int yellowled =7; // initialize digital pin 7.
+    int redled =2; // initialize digital pin 8.
+    int yellowled =3; // initialize digital pin 7.
     int greenled =4; // initialize digital pin 4.
+    int DELAY_GREEN = 5000;
     void setup()
     {
     pinMode(redled, OUTPUT);// set the pin with red LED as “output”
