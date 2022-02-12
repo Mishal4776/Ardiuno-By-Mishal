@@ -89,7 +89,8 @@ Output
 ------
 
 > The LED blinked with a time interval of 0.5 second
-![Output Image]( "C:\Users\MISHAL NAZAR\Pictures\Task 1.jpg"" Output Image")
+<image src= "https://user-images.githubusercontent.com/94855061/153724452-05a5fd81-1d0b-4e87-b4fc-315c121cd7ae.png" width="100" height="100">
+
   
 
 * * *
