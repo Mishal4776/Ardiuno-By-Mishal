@@ -89,7 +89,7 @@ Output
 ------
 
 > The LED blinked with a time interval of 0.5 second
-![Output Image](C:\Users\MISHAL NAZAR\Pictures\Task 1.png " Output Image")
+![Output Image]( "C:\Users\MISHAL NAZAR\Pictures\Task 1.jpg"" Output Image")
   
 
 * * *
