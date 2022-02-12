@@ -70,18 +70,18 @@ Code
 ----
 
     
-    int ledPin = 2; // define digital pin 10.
-    void setup()
-    {
-    pinMode(ledPin, OUTPUT);// define pin with LED connected as output.
-    }
-    void loop()
-    {
-    digitalWrite(ledPin, HIGH); // set the LED on.
-    delay(500); // wait for a second.
-    digitalWrite(ledPin, LOW); // set the LED off.
-    delay(500); // wait for a second
-    }
+   int ledPin=2;
+void setup()
+{
+     pinMode(ledPin,OUTPUT);
+}
+void loop()
+{
+    digitalWrite(ledPin,HIGH);
+    delay(500);
+    digitalWrite(ledPin,LOW);
+    delay(500);
+}
     
     
 
@@ -89,7 +89,7 @@ Output
 ------
 
 > The LED blinked with a time interval of 0.5 second
-
+![Output Image](C:\Users\MISHAL NAZAR\Pictures\Task 1.png " Output Image")
   
 
 * * *
