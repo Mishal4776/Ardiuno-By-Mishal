@@ -88,10 +88,15 @@ void loop()
 Output
 ------
 
+![Task 1](https://user-images.githubusercontent.com/94855061/153758670-e722be74-35f7-49cf-b72c-26ee6a943d53.png)
+
 > The LED blinked with a time interval of 0.5 second
 
-  
 
+https://user-images.githubusercontent.com/94855061/153759242-16f7bd41-59d2-46f2-bd4c-b5d5b569b58e.mp4
+
+
+  
 * * *
 
 Experiment 2 : Traffic Light
